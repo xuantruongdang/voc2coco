@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TF_DATA1</folder>
+	<filename>i531.jpg</filename>
+	<path>D:\data\Xe\Chua_label\image\TF_DATA1\i531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xe_container</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>1</ymin>
+			<xmax>636</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
